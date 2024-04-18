@@ -20,7 +20,7 @@ This is the first code of test.
 | test-fileof ht e dat | 23%  |  22%   | 15% |
 | test-fileof ht e dat | 27%  |  40%   | 15% |
 | test-fileof ht e dat | 24%  |  18%   | 15% |
-| test-fileof ht e dat | 23%  |  11%   | 16% |
+am deleted this line and added this text, that means modify. I am trying to pull the same to cli
 | test-fileof ht e dat | 23%  |  13%   | 15% |
 | test-fileof ht e dat | 20%  |  60%   | 19% |
 | test-fileof ht e dat | 20%  |  61%   | 19% |
